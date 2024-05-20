@@ -1,0 +1,1 @@
+Ich hatte eine 250000 lange Wortliste, bei der ich die Umlaute und das ß ändern musste. Das Python Programm ist nicht sehr langsam, aber es könnte besser sein. Seine Arbeit hat es aber in nur paar Sekunden erledigt.
